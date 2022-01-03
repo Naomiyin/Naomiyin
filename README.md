@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Naomiyin
+- 👀 I’m interested in data analytics, machine learning and deep learning. 
+- 🌱 I’m currently majoring in operations research and industrial engineering at UT Austin. 
+- 💞️ I’m looking to collaborate on applied projects and internship opportunities in data analytics and applied data science. 
+- 📫 E-mail: naomiyin@utexas.edu
